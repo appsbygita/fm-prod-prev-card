@@ -130,6 +130,10 @@ footer a {
     flex-direction: column;
     justify-content: space-around;
   }
+  button:hover {
+    background-color: hsl(158, 36%, 20%);
+    cursor: pointer;
+  }
   picture {
     width: 50%;
     display: flex;

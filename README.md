@@ -41,8 +41,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Link](https://your-solution-url.com)
-- Live Site URL: [Link](https://your-live-site-url.com)
+- Solution URL: [Link](https://github.com/appsbygita/fm-prod-prev-card)
+- Live Site URL: [Link](https://gita-prod-prev-card.vercel.app/)
 
 ## My process
 
